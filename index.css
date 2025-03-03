@@ -113,10 +113,12 @@ linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
 
 .main2 .box div span {
   font-weight: 500;
+  color: #333;
 }
 
 .main2 .box div span:last-child {
   font-weight: 400;
+  color: #555;
 }
 
 
@@ -170,6 +172,10 @@ linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
   border-radius: 8px;
   flex: 1;
   min-width: 250px;
+}
+.main4 p {
+  color: #777;
+  font-size: small;
 }
 
 .main5 {
